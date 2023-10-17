@@ -686,7 +686,7 @@ Lambda_BC  = 20.  ## If not enforcing BC exacctly.
 Lambda_data = 20.  
 
 #Directory = "/home/aa3878/Data/ML/Amir/stenosis/"
-Directory = "/scratch/aa3878/PINN/IA/3D/"
+Directory = "/home/user/workspace/PINN-wss/Data/3D-aneurysm/"
 mesh_file = Directory + "IA_mesh3D_nearwall_small_physical.vtu" #"IA3D_nearwall_correct.vtu"
 outer_wall_location = Directory + "IA_nearwall_outer_small.vtk"
 bc_file_wall = Directory + "IA_nearwall_wall_small.vtk"
